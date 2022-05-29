@@ -9,7 +9,7 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/toxygene/embd-ky-040-rotary-encoder/device"
+	"github.com/toxygene/periphio-ky-040-rotary-encoder/device"
 	"golang.org/x/sync/errgroup"
 	"periph.io/x/conn/v3/gpio"
 	"periph.io/x/conn/v3/gpio/gpioreg"
